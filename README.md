@@ -1,3 +1,4 @@
+<img width="536" height="798" alt="Dashboard" src="https://github.com/user-attachments/assets/fd2a6d6b-5678-491c-8105-4b7ef4330cfe" />
 📊 NVIDIA Stock Dashboard using Streamlit
 📌 Project Overview
 This project is an interactive stock analysis dashboard built using Python and Streamlit to visualize real-time financial data for NVIDIA Corporation (NVDA). The application fetches live stock market data using the yfinance library and presents key insights through tables and visualizations, making stock analysis simple and intuitive.
